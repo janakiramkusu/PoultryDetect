@@ -1,9 +1,9 @@
 # 🐔 AI-Based Poultry Disease Detection Using Image Classification
 
-<video width="100%" controls>
-  <source src="Video Demo/DEMO.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### 🎥 Demo Video
+📌 *Click the image to watch the demo video on Google Drive.*
+[![Watch the demo](https://drive.google.com/uc?id=1wvDcEddFw4SdbqDOVfyg8iNqOx-Xz1rj)](https://drive.google.com/file/d/13xrNz3gOAb60mxLSWeEkqisu0JxYPpYl/view?usp=drive_link)
+
 
 
 ## 📌 Overview
